@@ -4,8 +4,8 @@
 // @version      1.7
 // @description  A Canvas UserScript to facilitate crosslisting and de-crosslisting of courses.
 // @author       Chad Scott (ChadScott@katyisd.org)
-// @include     https://*.instructure.com/courses
-// @include     https://*.instructure.com/accounts/*
+// @include     https://*ccsd.instructure.com/courses
+// @include     https://*ccsd.instructure.com/accounts/*
 // @grant        none
 // ==/UserScript==
 'use strict';
